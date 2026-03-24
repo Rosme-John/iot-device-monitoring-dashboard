@@ -74,8 +74,3 @@ npm start
 
 - Backend uses MongoDB with Mongoose.
 - Frontend uses Axios for API calls.
-
----
-
-If you have questions or need help, feel free to open an issue.
->>>>>>> 44fd29f (Initial commit)
